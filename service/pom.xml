@@ -194,7 +194,7 @@
             <!-- Diese Abhängigkeit wird für Erweiterungen (z.B. https://github.com/minova-afis/aero.minova.cas.plugin.sam) bereitgestellt: service/doc/adoc/extensions.adoc -->
             <groupId>net.logstash.logback</groupId>
             <artifactId>logstash-logback-encoder</artifactId>
-            <version>7.4</version>
+            <version>8.0</version>
         </dependency>
         <dependency>
             <!-- Diese Abhängigkeit wird für Erweiterungen (z.B. https://github.com/minova-afis/aero.minova.cas.plugin.sam) bereitgestellt: service/doc/adoc/extensions.adoc -->
