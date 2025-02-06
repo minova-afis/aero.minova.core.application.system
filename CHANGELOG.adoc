@@ -4,6 +4,7 @@ Alle wesentlichen Änderungen für dieses Projekt werden hier dokumentiert.
 Das Format basiert auf link:https://keepachangelog.com/en/1.0.0[Keep a Changelog].
 
 ## Unreleased
+* CORS standardmäßig für https://saas-app-dev.minova.com zulassen
 
 * Maske LDAP User: Mehr Zeichen für KeyText erlauben
 
